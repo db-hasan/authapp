@@ -9,5 +9,6 @@
 
 ## About Project
 <a href="http://127.0.0.1:8000/">User Url</a><br>
-<a href="http://127.0.0.1:8000/admin/login">Admin Url</a>
+<a href="http://127.0.0.1:8000/admin/login">Admin Url</a><br>
+DB_DATABASE=authapp
 
