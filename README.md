@@ -8,6 +8,7 @@
 </p>
 
 ## About Project
+### This is multi-Auth Admin User Authentication System. This project uses Laravel Brazee and user verification by mobile OPT. Please check this URL and use my database sql file.
 #### <a href="http://127.0.0.1:8000/">User Url</a><br>
 #### <a href="http://127.0.0.1:8000/admin/login">Admin Url</a><br>
 #### DB_DATABASE=authapp
