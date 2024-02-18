@@ -8,4 +8,6 @@
 </p>
 
 ## About Project
+<a href="http://127.0.0.1:8000/">User Url</a>
+<a href="http://127.0.0.1:8000/admin/login">Admin Url</a>
 
